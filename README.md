@@ -1,2 +1,2 @@
 # tachydromeio
-sending shorter nessages
+sending shorter messages over the internet
