@@ -1,0 +1,3 @@
+#!/bin/bash
+nano -m main.c
+gcc main.c -o main
